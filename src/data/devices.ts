@@ -88,12 +88,12 @@ export const devicesData: DeviceCategory = {
 	],
 	耳机: [
 		{
-			name: "MOONDROP CHU II",
-			image: "/images/device/chu2.jpg",
-			specs: "Type-C DSP / 带麦克风",
+			name: "TRUTHEAR NOVA",
+			image: "/images/device/nova.jpg",
+			specs: "单晶铜线(自带) / 1动圈4动铁",
 			description:
-				"性价比高，麦还不错，给手机用刚刚好",
-			link: "https://moondroplab.com/cn/products/chu-ii",
+				"杂食塞，三频均衡，适合入门。分离度表现优秀，解析能力符合价位表现",
+			link: "https://truthear.com/products/nova",
 		},
 		{
 			name: "Sennheiser IE80s",
@@ -104,12 +104,12 @@ export const devicesData: DeviceCategory = {
 			link: "https://detail.zol.com.cn/1207/1206011/param.shtml",
 		},
 		{
-			name: "TRUTHEAR NOVA",
-			image: "/images/device/nova.jpg",
-			specs: "单晶铜线(自带) / 1动圈4动铁",
+			name: "MOONDROP CHU II",
+			image: "/images/device/chu2.jpg",
+			specs: "Type-C DSP / 带麦克风",
 			description:
-				"杂食塞，三频均衡，适合入门。分离度表现优秀，解析能力符合价位表现",
-			link: "https://truthear.com/products/nova",
+				"性价比高，麦还不错，给手机用刚刚好",
+			link: "https://moondroplab.com/cn/products/chu-ii",
 		},
 	],
 	路由器: [
